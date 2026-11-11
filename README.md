@@ -18,6 +18,7 @@ Site reliability and platform engineer in Indonesia. I work on Kubernetes, cloud
 - [sholat-monitor](https://github.com/azmifarih/sholat-monitor): prayer time daemon for Semarang. Desktop notifications, OpenCode TUI, Luvus Bar widget.
 - [tern-model-usage](https://github.com/azmifarih/tern-model-usage): Tern plugin that shows live model usage in the status line.
 - [luvus-opencode-refresh](https://github.com/azmifarih/luvus-opencode-refresh): restart OpenCode agents in place without losing sessions.
+- [upd](https://github.com/azmifarih/upd): updater for apps outside apt and snap. npm, pipx, cargo, flatpak, AppImage, GTK4.
 
 **Toolbox**
 
